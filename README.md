@@ -7,7 +7,7 @@ Data Analyst @MindQuad Solutions Pvt. Ltd.
 - Managed a complete Power BI project lifecycle for overseas client with virtual collaboration and remote deployment.
 - Engaged with client onsite to gather requirements and demonstrate project deliverables.
 
-###Projects
+Projects
 Digital Armour Corporation – Australia
 - Developed 2 reports – Actual and Estimated Sales Performance – using CRM as data source.
 - Re-designed the existing Sales Analysis Report to improve visual clarity and enhance insight delivery.
