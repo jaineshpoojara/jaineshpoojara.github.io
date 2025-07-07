@@ -1,4 +1,4 @@
-# Power-BI
+# Data Analyst
 Your go-to repo for Power BI projects that help you visualize, analyze, and act on data.
 
 ### Work Experience
