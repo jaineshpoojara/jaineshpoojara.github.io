@@ -1,5 +1,5 @@
 # Data Analyst
-Your go-to repo for Power BI projects that help you visualize, analyze, and act on data.
+An introductory repo, for a basic introduction.
 
 ### Work Experience
 Data Analyst @MindQuad Solutions Pvt. Ltd.
